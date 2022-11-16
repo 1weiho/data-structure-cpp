@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# VS Code
+.vscode
+
+# For code running
+main
+tempCodeRunnerFile.cpp
+
+# Mac
+.DS_Store
